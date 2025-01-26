@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PetShop>
+    <Animal>
+        <dataNascimento>2025-01-27</dataNascimento>
+        <especie>Cachorro</especie>
+        <genero>macho</genero>
+        <nome>Pituxo</nome>
+        <raca>Viralata</raca>
+    </Animal>
+    <Animal>
+        <dataNascimento>2022-10-05</dataNascimento>
+        <especie>Cobra</especie>
+        <genero>femea</genero>
+        <nome>Snake</nome>
+        <raca>Coral</raca>
+    </Animal>
+    <Animal>
+        <dataNascimento>2000-05-05</dataNascimento>
+        <especie>Gato</especie>
+        <genero>macho</genero>
+        <nome>Bola de neve</nome>
+        <raca>null</raca>
+    </Animal>
+</PetShop>
